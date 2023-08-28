@@ -205,8 +205,7 @@ This is the significance of Jaws:
 <br>
 
 **Williams' Style**
-* Influenced by both the traditional approaches of Wagner/Korngold as well as
-  more recent modernist styles
+* Influenced by both the traditional approaches of Wagner/Korngold as well as more recent modernist styles
 * **Neoromantic**
     * Refers to the return of romantic inspired styles (neo-romantic lol)
     * Many elements from old romantic styles, with a bit of modernism

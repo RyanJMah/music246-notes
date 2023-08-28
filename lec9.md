@@ -36,12 +36,10 @@
 
 * Bernard realized: "Film music is not meant to be played in a concert"
     * It is recorded once for the film
-    * If you live in Hollywood, you can write a score for whatever
-      instrumentations you want, and you just need to record it once
+    * If you live in Hollywood, you can write a score for whatever instrumentations you want, and you just need to record it once
 
 **EXAMPLE: The Day the Earth Stood Still**
-* About an alien who realizes we have nuclear weapons and how we can all die
-  from them and how its kinda stupid
+* About an alien who realizes we have nuclear weapons and how we can all die from them and how its kinda stupid
 
 <br>
 
@@ -161,8 +159,7 @@
     * He writes a few things then they just put it all over the film
 * John Barry writes the main James Bond theme
 
-James Bond does so well that John Barry goes on to compose for the next
-11 James Bond films.
+James Bond does so well that John Barry goes on to compose for the next 11 James Bond films.
 
 <br>
 

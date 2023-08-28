@@ -52,8 +52,7 @@ Solution to the problems of musical accompaniment - recorded and synchronized so
 
 <br>
 
-Sound on Disk has the early lead, but Sound on Film will
-become the standard by the early 1930s.
+Sound on Disk has the early lead, but Sound on Film will become the standard by the early 1930s.
 
 ### Changes Connected to Sound
 
@@ -128,8 +127,7 @@ By 1930, little music is used in dramatic films - "where does it come from?"
 
 **Example: Cimarron (1931) Score by Max Steiner**
 * "Introduced" music as source music (in the film), but would change the vibe to fit the action
-* David Selznick, at RKO recognized that more music might be effective, despite
-  risk of confusing the audience
+* David Selznick, at RKO recognized that more music might be effective, despite risk of confusing the audience
     * Told Max this too
 
 **(1932) Symphony of 6 Million** and **Bird of Paradise**

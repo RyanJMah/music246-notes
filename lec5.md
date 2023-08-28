@@ -1,8 +1,7 @@
 # Lecture 5
 
 * 1930s: sound film develops many of the conventions that will define it
-* Begins as an extension of the silent film but by the end of the decade,
-  technical advances and aesthetic changes have developed it into its own medium
+* Begins as an extension of the silent film but by the end of the decade, technical advances and aesthetic changes have developed it into its own medium
 * Height of the "Studio System"
     * 8 studios have come to dominate Hollywood
     * Studios hired actors and talent
@@ -63,8 +62,7 @@
 * Remained in Hollywood, died in 1957
     * Disappointed that he was never able to regain his position as a "serious composer"
 * Freelanced, composed only 19 film scores in 12 years
-    * His father was a very uptight music critic, never was able to get his
-      approval for his work in Hollywood
+    * His father was a very uptight music critic, never was able to get his approval for his work in Hollywood
 
 ##### Komgold's Style
 * Wrote in a 19th century romantic style (like Wagner and Strauss)

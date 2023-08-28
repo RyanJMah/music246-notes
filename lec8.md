@@ -17,13 +17,14 @@
 * Multi-channel sound systems for theatres
 
 Many movies were made to specifically take advantage of new technology.
-    * Epic films:
-        * Quo Vadis
-        * The Robe
-        * Julius Ceasar
-        * Lawrence of Arabia
-        * Cleopatra
-        * The Ten Commandments
+
+* Epic films:
+    * Quo Vadis
+    * The Robe
+    * Julius Ceasar
+    * Lawrence of Arabia
+    * Cleopatra
+    * The Ten Commandments
 
 **EXAMPLE: Ben Hur (1959), Music by Miklos Rozsa**
 * Visually spectacular / no narrative development during this scene
